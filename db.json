@@ -1,0 +1,77 @@
+{
+  "seller": [
+    {
+      "name": "Shubham Pandit",
+      "password": "shubham123",
+      "email": "shubham11@gmail.com",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Xiaomi Redmi Note 10",
+      "price": "18,999",
+      "category": "Android",
+      "color": "Blue",
+      "description": "Super Camera",
+      "image": "https://i.gadgets360cdn.com/large/best_phones_under_25000_december_cover_1608286980147.jpg?downsize=910:*&output-quality=80",
+      "id": 1
+    },
+    {
+      "name": "Appple iPhone 14 Pro",
+      "price": "99999",
+      "category": "apple",
+      "color": "White",
+      "description": "Premium",
+      "image": "https://securecontent.jackyselectronics.com/Images/product-images/iPhone_13_Pro_Silver_PDP_Image_position-1A_EN.jpg",
+      "id": 2
+    },
+    {
+      "name": "Realme x3",
+      "price": "29999",
+      "category": "Android",
+      "color": "Silver",
+      "description": "A1 Camera super zoom",
+      "image": "https://i.gadgets360cdn.com/large/best_phones_under_30000_december_cover_1608289359517.jpg?downsize=910:*&output-quality=80",
+      "id": 3
+    },
+    {
+      "name": "Vivo v15Pro",
+      "price": "19999",
+      "category": "Android",
+      "color": "Blue",
+      "description": "Centric Camera",
+      "image": "https://www.businessinsider.in/photo/73191839/best-vivo-smartphones-under-20000-in-india.jpg?imgsize=200540",
+      "id": 4
+    },
+    {
+      "name": "Mi 10i 5G",
+      "price": "19999",
+      "category": "Android",
+      "color": "Atlantic Blue",
+      "description": "108 Mp Camera",
+      "image": "https://techgeek360.com/wp-content/uploads/2021/02/Top-3-Best-5G-Mobiles-Under-Rs-20000-in-India-2021.jpg",
+      "id": 5
+    },
+    {
+      "name": "Realme X7 5G",
+      "price": "19999",
+      "category": "Android",
+      "color": "black,blue,white",
+      "description": "6.4-inch, SAMOLED, 1080 x 2400 (full HD+), 60Hz refresh rate\n",
+      "image": "https://i0.wp.com/techgeek360.com/wp-content/uploads/2021/02/realme-x7-review.jpg?w=600&ssl=1",
+      "id": 6
+    },
+    {
+      "name": "HUAWAI",
+      "price": "49999",
+      "category": "premium",
+      "color": "Light Blue",
+      "description": "Made in Japan",
+      "image": "https://story.com.pk/wp-content/uploads/2021/04/Best-mobiles-under-50000-in-Pakistan-in-2021.jpg",
+      "id": 7
+    }
+  ],
+  "users": [],
+  "cart": []
+}
